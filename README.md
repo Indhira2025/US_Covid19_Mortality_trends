@@ -1,7 +1,8 @@
-# From Outbreak to Endemic: COVID-19 in the U.S.
+#
 
 ## Overview
-This project analyzes the evolution of COVID-19 mortality in the United States from January 2020 to April 2025. Using CDC and NCHS data, it evaluates confirmed COVID-19 deaths, excess mortality, hospitalization trends, vaccination coverage, and variant waves to understand the transition from pandemic outbreak to endemic management.
+This project analyzes the evolution of COVID-19 mortality in the United States from January 2020 to April 2025. Using CDC and NCHS data, it evaluates confirmed COVID-19 deaths, excess mortality, hospitalization trends, vaccination coverage, and variant waves to understand the transition from pandemic outbreak to endemic management. 
+This is a group project and my part of Treand analysis and Visualization is reported in "Trend_analysis_IndhiraV"
 
 ---
 
