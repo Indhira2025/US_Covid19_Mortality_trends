@@ -2,7 +2,7 @@
 
 ## Overview
 This project analyzes the evolution of COVID-19 mortality in the United States from January 2020 to April 2025. Using CDC and NCHS data, it evaluates confirmed COVID-19 deaths, excess mortality, hospitalization trends, vaccination coverage, and variant waves to understand the transition from pandemic outbreak to endemic management. 
-This is a group project and my part of Trend analysis and Visualization is reported in "Trend_analysis_IndhiraV". 
+This is a group project, the whole analysis is reported in "Report.pdf" and my part of Trend analysis and Visualization is reported in "Trend_analysis_IndhiraV". 
 
 Data source:
 Covid_19 deaths & Pneumonia Deaths (2013-2019): https://data.cdc.gov/
@@ -53,7 +53,7 @@ This project aims to:
 - Pneumonia and influenza contributed significantly to excess mortality  
 - Higher vaccination coverage was associated with lower excess deaths  
 
-The findings reflect a shift from high-severity pandemic phases toward endemic management, while highlighting persistent regional disparities.The report  file for this analysis is " Report.pdf "
+The findings reflect a shift from high-severity pandemic phases toward endemic management, while highlighting persistent regional disparities.
 
 ---
 
@@ -70,6 +70,7 @@ This project provides:
 ---
 
 **Keywords:** COVID-19, Excess Mortality, Variant Waves, Vaccination, Epidemiology, Public Health, United States
+
 
 
 
